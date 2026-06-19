@@ -1,0 +1,58 @@
+{
+  "bands": [
+    {
+      "name": "Guns N' Roses",
+      "genre": ["hard rock", "heavy metal", "glam metal"],
+      "cover": "Setlist/Guns N' Roses/Guns N' Roses.jpg",
+      "albums": [
+        {
+          "title": "Appetite for Destruction",
+          "cover": "Setlist/Guns N' Roses/Appetite for Destruction/Appetite for Destruction.jpg",
+          "path": "Setlist/Guns N' Roses/Appetite for Destruction/"
+        }
+        ,
+        {
+          "title": "Best Ballads",
+          "cover": "Setlist/Guns N' Roses/Best Ballads/Best Ballads.jpg",
+          "path": "Setlist/Guns N' Roses/Best Ballads/"
+        }
+        ,
+        {
+          "title": "Chinese Democracy",
+          "cover": "Setlist/Guns N' Roses/Chinese Democracy/Chinese Democracy.jpg",
+          "path": "Setlist/Guns N' Roses/Chinese Democracy/"
+        }
+        ,
+        {
+          "title": "Civil War",
+          "cover": "Setlist/Guns N' Roses/Civil War/Civil War.jpg",
+          "path": "Setlist/Guns N' Roses/Civil War/"
+        }
+        ,
+        {
+          "title": "Family Tree",
+          "cover": "Setlist/Guns N' Roses/Family Tree/Family Tree.jpg",
+          "path": "Setlist/Guns N' Roses/Family Tree/"
+        }
+        ,
+        {
+          "title": "G N' R Lies",
+          "cover": "Setlist/Guns N' Roses/G N' R Lies/G N' R Lies.jpg",
+          "path": "Setlist/Guns N' Roses/G N' R Lies/"
+        }
+        ,
+        {
+          "title": "Greatest Hits",
+          "cover": "Setlist/Guns N' Roses/Greatest Hits/Greatest Hits.jpg",
+          "path": "Setlist/Guns N' Roses/Greatest Hits/"
+        }
+        ,
+        {
+          "title": "Live Era",
+          "cover": "Setlist/Guns N' Roses/Live Era/Live Era.jpg",
+          "path": "Setlist/Guns N' Roses/Live Era/"
+        }
+      ]
+    }
+  ]
+}
